@@ -10,3 +10,4 @@ node_modules
 styles.css
 package-lock.json
 style-guide.md
+tailwind.config.js
